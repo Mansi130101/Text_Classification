@@ -7,12 +7,12 @@ Binary Text classification using TensorFlow using 1D-CNN architecture on IMDB mo
 ## Model Architecture & Summary:
 1D Convolution Neural Network is used as a model architecture, which is then implemented on TensorFlow.
 
-<img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/6731d09f65b069a0129f2eb98c8f8ab43c69c144/model%20architecture.png" alt="Model Architecture" /> <img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/e23c671c5bccddc63120224b726367bba50c55b4/model_summary.png" alt="Model Summary" />
+<img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/a7f604b46edddd7722d252d99e99ca4fa4872b15/Images/1D_CNN/Model%20architecture.png" alt="Model Architecture" /> <img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/a7f604b46edddd7722d252d99e99ca4fa4872b15/Images/1D_CNN/Model_summary.png" alt="Model Summary" />
 
 ## Learning Curves:
 During the training of the model, the train and validation split is in the ratio of 0.8 : 0.2 of the whole training dataset to avoid overfitting to the training dataset. Loss and Accuracy curves for train and validation datasets:
 
-<img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/f22e5ed3925a98dad7cf83061c0a8535f9372c0f/Loss.png" alt="Loss" /> <img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/f22e5ed3925a98dad7cf83061c0a8535f9372c0f/Accuracy.png" alt="Accuracy" />
+<img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/a7f604b46edddd7722d252d99e99ca4fa4872b15/Images/1D_CNN/Loss.png" alt="Loss" /> <img width= 350, src="https://github.com/Mansi130101/Text_Classification/blob/a7f604b46edddd7722d252d99e99ca4fa4872b15/Images/1D_CNN/Accuracy.png" alt="Accuracy" />
 
 ## Future Scope:
 Further hypertuning can be done to improve results:
