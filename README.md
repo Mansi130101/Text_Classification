@@ -1,6 +1,6 @@
 # Text_Classification
 
-Binary Text classification using TensorFlow using 1D-CNN architecture on IMDB movie review sentiment classification with a test accuracy of 87.01%.
+Binary Text classification using TensorFlow using 1D-CNN architecture on IMDB movie review sentiment classification with a test accuracy of 87.01%. The models are saved in .h5 file format and can be used later.
 
 ## Dataset:
 
