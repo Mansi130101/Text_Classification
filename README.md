@@ -4,7 +4,7 @@ Binary Text classification using TensorFlow using 1D-CNN architecture on IMDB mo
 
 Model Architecture:
 
-<img src="https://github.com/Mansi130101/Text_Classification/blob/6731d09f65b069a0129f2eb98c8f8ab43c69c144/model%20architecture.png" alt="Model Architecture" />
+<img width= 10, src="https://github.com/Mansi130101/Text_Classification/blob/6731d09f65b069a0129f2eb98c8f8ab43c69c144/model%20architecture.png" alt="Model Architecture" />
 
 Model Summary:
 
